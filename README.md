@@ -1,4 +1,4 @@
-# FootballClub-FLutter
+# FootballClub-Flutter
 
 A new Flutter application.
 
